@@ -1,7 +1,7 @@
 ﻿public class Calcular
 {
     
-    public double Soma(double n1, double n2)
+    public double Soma(double n1, double n2)//oi
     {
         return n1 + n2;
     }
